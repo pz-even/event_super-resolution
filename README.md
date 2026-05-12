@@ -6,6 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.1-EE4C2C)
 ![License](https://img.shields.io/badge/License-MIT-green)
+[![News](https://img.shields.io/badge/News-Prophesee-1F2533)](https://www.prophesee.ai/2025/02/20/neuromorphic-imaging-with-super-resolution/)
 
 ```
 @article{zhang2025tcsvt,
