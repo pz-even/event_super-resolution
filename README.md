@@ -14,8 +14,8 @@
   author  = {Pei Zhang and Shuo Zhu and Chutian Wang and Yaping Zhao and Edmund Y. Lam},
   journal = {IEEE Transactions on Circuits and Systems for Video Technology},
   volume  = {35}, number = {2}, pages = {1715--1727},
-  year    = {2025}, month = {February},
-  doi     = {10.1109/TCSVT.2024.3482436},
+  year    = {2025},
+  doi     = {10.1109/TCSVT.2024.3482436}
 }
 ```
 ![DEMO](./imgs/workflow.png)
