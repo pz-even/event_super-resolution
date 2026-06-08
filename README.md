@@ -1,8 +1,8 @@
 # Neuromorphic Imaging with Super-Resolution
 
 [![doi](https://img.shields.io/badge/Journal-IEEE_TCSVT-blue)](https://doi.org/10.1109/TCSVT.2024.3482436)
-[![arXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/2407.05764)
-[![HKU](https://img.shields.io/badge/HKU-PDF-b31b1b)](https://www.eee.hku.hk/optima/pub/journal/2502_TCSVT.pdf)
+[![arXiv](https://img.shields.io/badge/PDF-arXiv-b31b1b)](https://arxiv.org/abs/2407.05764)
+[![HKU](https://img.shields.io/badge/PDF-HKU-b31b1b)](https://www.eee.hku.hk/optima/pub/journal/2502_TCSVT.pdf)
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.1-EE4C2C)
 ![License](https://img.shields.io/badge/License-MIT-green)
